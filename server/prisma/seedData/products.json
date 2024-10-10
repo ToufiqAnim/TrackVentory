@@ -1,0 +1,247 @@
+[
+  {
+    "productId": "d35623ee-bef6-42b2-8776-2f99f8bb4782",
+    "name": "Scarlet Leaf Clover",
+    "price": 745.28,
+    "rating": 3.75,
+    "stockQuantity": 298763
+  },
+  {
+    "productId": "8ac1ac77-7358-425e-be16-0bdde9f02e59",
+    "name": "Golden Sunset Tulip",
+    "price": 820.49,
+    "rating": 2.95,
+    "stockQuantity": 543121
+  },
+  {
+    "productId": "1afc136b-4d9f-4e8e-aace-8e1df908a404",
+    "name": "Crystal Fern",
+    "price": 199.78,
+    "rating": 4.18,
+    "stockQuantity": 621405
+  },
+  {
+    "productId": "af84cc12-4fea-4f58-aece-f2ce92ca9580",
+    "name": "Moonlit Orchid",
+    "price": 640.99,
+    "rating": 4.45,
+    "stockQuantity": 341245
+  },
+  {
+    "productId": "86e3bb1c-2f5d-4774-98f3-4df7cddd0a0f",
+    "name": "White Blaze Cactus",
+    "price": 128.32,
+    "rating": 4.95,
+    "stockQuantity": 561100
+  },
+  {
+    "productId": "26b017c6-06d8-443f-9b4a-d6b1cee6f4c0",
+    "name": "Sky Blue Heather",
+    "price": 512.11,
+    "rating": 1.35,
+    "stockQuantity": 102344
+  },
+  {
+    "productId": "440c9e80-6bf8-4eb3-b2d2-f81936d67de3",
+    "name": "Twilight Rose",
+    "price": 605.48,
+    "rating": 3.08,
+    "stockQuantity": 422854
+  },
+  {
+    "productId": "98255f4e-40a6-470f-89a5-0792729f8947",
+    "name": "Blushing Lily",
+    "price": 832.22,
+    "rating": 4.91,
+    "stockQuantity": 501234
+  },
+  {
+    "productId": "2a339fb2-f9f3-43bc-a85a-b217a0a38f12",
+    "name": "Amber Sunset Moss",
+    "price": 432.0,
+    "rating": 2.07,
+    "stockQuantity": 804112
+  },
+  {
+    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
+    "name": "Forest Glade Myrtle",
+    "price": 98.75,
+    "rating": 4.32,
+    "stockQuantity": 324512
+  },
+  {
+    "productId": "be2157fb-7454-405e-9511-bf7ba81b7726",
+    "name": "Blue Cascade Thistle",
+    "price": 675.5,
+    "rating": 2.45,
+    "stockQuantity": 267345
+  },
+  {
+    "productId": "fdf1ba3d-fa06-4ce5-90ff-d081c5d37176",
+    "name": "Snowbell Tree",
+    "price": 895.6,
+    "rating": 3.61,
+    "stockQuantity": 212398
+  },
+  {
+    "productId": "afded6df-058f-477d-9878-e0e0b1d3dff3",
+    "name": "Glacier Blue Phlox",
+    "price": 501.88,
+    "rating": 4.41,
+    "stockQuantity": 490210
+  },
+  {
+    "productId": "daa29167-82a7-474b-9687-b8b903e7ec69",
+    "name": "Velvet Petunia",
+    "price": 322.95,
+    "rating": 1.65,
+    "stockQuantity": 114893
+  },
+  {
+    "productId": "ccb83982-71f3-4497-bad8-7e64c6920dc6",
+    "name": "Blush Tulip",
+    "price": 188.7,
+    "rating": 3.92,
+    "stockQuantity": 395406
+  },
+  {
+    "productId": "1936d406-e89e-40e4-bff7-1827532269d4",
+    "name": "Spring Fire Begonia",
+    "price": 703.59,
+    "rating": 2.84,
+    "stockQuantity": 552812
+  },
+  {
+    "productId": "c849a535-5f8b-47e3-889c-015693a644ac",
+    "name": "Dewdrop Vine",
+    "price": 544.62,
+    "rating": 2.58,
+    "stockQuantity": 409883
+  },
+  {
+    "productId": "0c3e80ee-59b3-4fc4-b760-8b07acc2d3ae",
+    "name": "Lavender Breeze Flower",
+    "price": 74.28,
+    "rating": 1.87,
+    "stockQuantity": 378442
+  },
+  {
+    "productId": "d8f5bee3-f3eb-4071-a124-6b857e0fd798",
+    "name": "Sage Whisper Moss",
+    "price": 602.39,
+    "rating": 4.61,
+    "stockQuantity": 325800
+  },
+  {
+    "productId": "8d15de86-0e4a-4414-9166-7a33610202d3",
+    "name": "Orchid Glory",
+    "price": 24.65,
+    "rating": 1.21,
+    "stockQuantity": 732188
+  },
+  {
+    "productId": "ea8fd0b9-c2d9-4d43-9c23-44cb99d079bb",
+    "name": "Golden Feather Fern",
+    "price": 892.48,
+    "rating": 3.87,
+    "stockQuantity": 604305
+  },
+  {
+    "productId": "25d01c80-bca1-4a00-b1d0-0fbd39ff9e89",
+    "name": "Emerald Dew Plant",
+    "price": 220.31,
+    "rating": 2.06,
+    "stockQuantity": 911247
+  },
+  {
+    "productId": "1d6df6e3-b7ea-4507-9d66-87c6ee8ed5b9",
+    "name": "Summer Sky Lobelia",
+    "price": 142.89,
+    "rating": 1.94,
+    "stockQuantity": 205643
+  },
+  {
+    "productId": "000a8c23-5bca-436c-a216-4e747a94c511",
+    "name": "Maple Crest Fern",
+    "price": 187.1,
+    "rating": 1.75,
+    "stockQuantity": 834221
+  },
+  {
+    "productId": "c5b600dc-6bfb-492a-b335-c3cc8c707959",
+    "name": "Sunrise Ivy",
+    "price": 450.78,
+    "rating": 0.89,
+    "stockQuantity": 341289
+  },
+  {
+    "productId": "9d5fafbc-312b-47e8-ada1-283918f0c3b5",
+    "name": "Ruby Meadow Flower",
+    "price": 578.9,
+    "rating": 4.79,
+    "stockQuantity": 102355
+  },
+  {
+    "productId": "0114d5d4-ae48-46fa-b0ca-afe60eb88add",
+    "name": "Ocean Breeze Grass",
+    "price": 734.8,
+    "rating": 0.59,
+    "stockQuantity": 511333
+  },
+  {
+    "productId": "e5b0da8c-148d-4680-b262-8609fb8a10da",
+    "name": "Silver Sage Pentas",
+    "price": 792.14,
+    "rating": 2.13,
+    "stockQuantity": 504610
+  },
+  {
+    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
+    "name": "Shadow Fern",
+    "price": 491.32,
+    "rating": 1.72,
+    "stockQuantity": 78123
+  },
+  {
+    "productId": "fcf2e432-62a3-4b6f-a34d-36e42a12272e",
+    "name": "Mountain Breeze Fleabane",
+    "price": 830.54,
+    "rating": 3.11,
+    "stockQuantity": 702348
+  },
+  {
+    "productId": "fc4c81e5-f1ac-40f5-8c6f-da3fbad5599d",
+    "name": "Orchid Dream Moss",
+    "price": 205.12,
+    "rating": 2.78,
+    "stockQuantity": 663345
+  },
+  {
+    "productId": "07238d8e-0037-4972-87ca-0df206ee3e42",
+    "name": "Tropical Sunset Poppymallow",
+    "price": 38.89,
+    "rating": 4.28,
+    "stockQuantity": 431234
+  },
+  {
+    "productId": "154b7860-23a2-4564-ad99-1745ab7122ef",
+    "name": "Crimson Star Waterclover",
+    "price": 94.23,
+    "rating": 0.97,
+    "stockQuantity": 298764
+  },
+  {
+    "productId": "8d4bf814-65d4-4df4-84cc-68911d925fdf",
+    "name": "Sunny Blossom Acacia",
+    "price": 742.89,
+    "rating": 2.44,
+    "stockQuantity": 529485
+  },
+  {
+    "productId": "a52bf1bd-3d35-4cd2-849a-354e3952e2d2",
+    "name": "Midnight Star Plant",
+    "price": 854.73,
+    "rating": 3.49,
+    "stockQuantity": 348923
+  }
+]
