@@ -2,12 +2,13 @@
 import { useGetDashboardMetricsQuery } from "@/state/api";
 import React from "react";
 import Rating from "../(components)/Ratings";
+import { ShoppingBag } from "lucide-react";
 
 const PopularProductsCard = () => {
   const { data, isLoading } = useGetDashboardMetricsQuery();
-  console.log(data);
+
   return (
-    <div className="row-span-3 xl:row-span-6 ">
+    <div className="row-span-3 xl:row-span-6 bg-white shadow-md rounded-2xl pb-16">
       {isLoading ? (
         <div className="m-5">Loading...</div>
       ) : (
@@ -23,7 +24,6 @@ const PopularProductsCard = () => {
                 className="flex items-center justify-between gap-3 px-5 py-7 border-b"
               >
                 <div className="flex items-center gap-3">
-                  {/* <img src="" alt="" /> */}
                   <div className="flex flex-col justify-between gap-1">
                     <div className="font-bold text-gray-700">
                       {product.name}
@@ -33,9 +33,16 @@ const PopularProductsCard = () => {
                         ${product.price}
                       </span>
                       <span className="mx-2">|</span>
-                      {<Rating rating={product.rating || 0} />}
+                      <Rating rating={product.rating || 0} />
                     </div>
                   </div>
+                </div>
+
+                <div className="text-xs flex items-center">
+                  <button className="p-2 rounded-full bg-blue-100 text-blue-600 mr-2">
+                    <ShoppingBag className="w-4 h-4" />
+                  </button>
+                  {Math.round(product.stockQuantity / 1000)}k Sold
                 </div>
               </div>
             ))}
