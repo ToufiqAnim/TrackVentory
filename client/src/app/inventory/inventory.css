@@ -1,0 +1,16 @@
+/* Custom CSS for DataGrid in dark mode */
+.datagrid .MuiDataGrid-columnHeaders {
+  background-color: #1f2937; /* Dark gray (aligns with Tailwind's gray-800) */
+  color: white;
+}
+
+.datagrid .MuiDataGrid-columnHeaders--dark {
+  background-color: #1f2937;
+  color: white;
+}
+
+/* This ensures the light mode stays as white */
+.datagrid .MuiDataGrid-columnHeaders--light {
+  background-color: white;
+  color: black;
+}

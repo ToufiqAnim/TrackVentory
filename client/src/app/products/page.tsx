@@ -4,8 +4,9 @@ import { PlusCircleIcon, SearchIcon } from "lucide-react";
 import Image from "next/image";
 import React, { useState } from "react";
 import Rating from "../(components)/Ratings";
+import ProductModal from "./ProductModal";
 
-type TProductsForm = {
+export type TProductsForm = {
   name: string;
   price: number;
   stockQuantity: number;
@@ -38,7 +39,7 @@ const Products = () => {
   return (
     <div className="mx-auto pb-5 w-full">
       <div className="mb-6">
-        <div className="flex items-center bottom-2 border-gray-200 rounded">
+        <div className="flex items-center border-2 border-gray-200 rounded">
           <input
             className="w-full py-3 px-4 rounded bg-white"
             placeholder="Search products..."
@@ -92,6 +93,11 @@ const Products = () => {
           ))
         )}
       </div>
+      <ProductModal
+        isOpen={isModalOpen}
+        onClose={() => setIsModalOpen(false)}
+        onCreate={handleCreateProducts}
+      />
     </div>
   );
 };
