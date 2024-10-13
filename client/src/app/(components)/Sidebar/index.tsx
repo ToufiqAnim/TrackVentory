@@ -35,7 +35,7 @@ const Sidebar = () => {
     >
       <div className="flex gap-3 justify-between md:justify-normal items-ceter pt-8">
         <Image src={Stockify} alt="stockify-logo" className="rounded w-16" />
-        <h1 className="font-extrabold text-2xl">STOKIFY</h1>
+        <h1 className="font-extrabold text-2xl">TrackVentory</h1>
         <button
           className="md:hidden px-3 py-3 bg-gray-100 rounded hover:bg-blue-100"
           onClick={toggleSidebar}
